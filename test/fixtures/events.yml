@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  group: one
+  name: MyString
+  url: MyString
+  time: 2023-11-19 23:55:36
+
+two:
+  group: two
+  name: MyString
+  url: MyString
+  time: 2023-11-19 23:55:36
